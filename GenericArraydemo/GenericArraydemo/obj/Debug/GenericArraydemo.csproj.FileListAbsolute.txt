@@ -1,0 +1,7 @@
+D:\.Net\GenericArraydemo\GenericArraydemo\bin\Debug\GenericArraydemo.exe.config
+D:\.Net\GenericArraydemo\GenericArraydemo\bin\Debug\GenericArraydemo.exe
+D:\.Net\GenericArraydemo\GenericArraydemo\bin\Debug\GenericArraydemo.pdb
+D:\.Net\GenericArraydemo\GenericArraydemo\obj\Debug\GenericArraydemo.csproj.AssemblyReference.cache
+D:\.Net\GenericArraydemo\GenericArraydemo\obj\Debug\GenericArraydemo.csproj.CoreCompileInputs.cache
+D:\.Net\GenericArraydemo\GenericArraydemo\obj\Debug\GenericArraydemo.exe
+D:\.Net\GenericArraydemo\GenericArraydemo\obj\Debug\GenericArraydemo.pdb
