@@ -1,0 +1,7 @@
+D:\.Net\ThreadsDay8\ThreadsDay8\obj\Debug\ThreadsDay8.csproj.AssemblyReference.cache
+D:\.Net\ThreadsDay8\ThreadsDay8\obj\Debug\ThreadsDay8.csproj.CoreCompileInputs.cache
+D:\.Net\ThreadsDay8\ThreadsDay8\bin\Debug\ThreadsDay8.exe.config
+D:\.Net\ThreadsDay8\ThreadsDay8\bin\Debug\ThreadsDay8.exe
+D:\.Net\ThreadsDay8\ThreadsDay8\bin\Debug\ThreadsDay8.pdb
+D:\.Net\ThreadsDay8\ThreadsDay8\obj\Debug\ThreadsDay8.exe
+D:\.Net\ThreadsDay8\ThreadsDay8\obj\Debug\ThreadsDay8.pdb

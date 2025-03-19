@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadsDay8", "ThreadsDay8\ThreadsDay8.csproj", "{481123A3-CF29-46CE-A8B8-1F67235E1012}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadingDemo2", "ThreadingDemo2\ThreadingDemo2.csproj", "{30D21D9C-65A9-496D-B3D2-649A984CA48B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{481123A3-CF29-46CE-A8B8-1F67235E1012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{481123A3-CF29-46CE-A8B8-1F67235E1012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{481123A3-CF29-46CE-A8B8-1F67235E1012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{481123A3-CF29-46CE-A8B8-1F67235E1012}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30D21D9C-65A9-496D-B3D2-649A984CA48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30D21D9C-65A9-496D-B3D2-649A984CA48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30D21D9C-65A9-496D-B3D2-649A984CA48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30D21D9C-65A9-496D-B3D2-649A984CA48B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
